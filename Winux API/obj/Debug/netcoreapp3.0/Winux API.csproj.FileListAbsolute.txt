@@ -1,0 +1,13 @@
+C:\Users\Nathan\source\repos\Project Winux\Winux API\bin\Debug\netcoreapp3.0\Winux API.deps.json
+C:\Users\Nathan\source\repos\Project Winux\Winux API\bin\Debug\netcoreapp3.0\Winux API.dll
+C:\Users\Nathan\source\repos\Project Winux\Winux API\bin\Debug\netcoreapp3.0\Winux API.pdb
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API_MarkupCompile.cache
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API_MarkupCompile.lref
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Themes\Generic.baml
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API.g.resources
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API.dll
+C:\Users\Nathan\source\repos\Project Winux\Winux API\obj\Debug\netcoreapp3.0\Winux API.pdb
