@@ -1,19 +1,19 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 
 namespace Winux_Parent {
     class Program {
 
-        //private static Process[] explorerProcesses = Process.GetProcessesByName("explorer");
+        private static Process[] explorerProcesses = Process.GetProcessesByName("explorer");
 
         static void Main(string[] args) {
-            //StripWindows();
+            StripWindows();
 
             Console.ReadLine();
         }
 
         //Remove windows features
-        /*private static void StripWindows() {
+        private static void StripWindows() {
             //Kill Windows Explorer >:)
             if(explorerProcesses.Length == 1) {
                 explorerProcesses[0].Kill();
@@ -24,6 +24,6 @@ namespace Winux_Parent {
                     Console.WriteLine(process.ProcessName);
                 }
             }
-        }*/
+        }
     }
 }
